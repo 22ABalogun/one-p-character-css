@@ -1,0 +1,272 @@
+
+  h1{
+    text-align: center;
+  }
+  body{
+    background-image: url("https://m.media-amazon.com/images/I/71i1PiLTBVL._AC_SX425_.jpg");
+    width: 100%;
+    margin: 0;
+  }
+
+
+
+
+div.st img{
+  float: left;
+  margin-top: 46px;
+  margin-left: 0px;
+  margin-bottom: 0%;
+  width: 24.5%;
+  height: 235px;
+}
+div.MainC{
+    position: relative;
+    margin-top: 30px;
+    background-color: aliceblue;
+
+    width: 70%;
+    padding: 50px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+}
+
+
+
+
+
+div.desc{
+        padding: 15px;
+        text-align: center;
+        font-size: large;
+        -webkit-text-fill-color: darkred;
+        background-color: aliceblue;
+        width: 94%;
+        
+}
+
+div.Luffy {
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+
+  div.Luffy img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+
+  div.Luffy:hover {
+    border: 1px solid #777;
+  }
+
+
+
+
+  div.Zoro{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Zoro img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Zoro:hover {
+    border: 1px solid #777;
+  }
+
+  div.Nami {
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+
+  div.Nami img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+
+  div.Nami:hover {
+    border: 1px solid #777;
+  }
+
+  div.Usopp {
+    margin-bottom: 5px;
+    margin: 0%;
+    border: 1px solid #ccc;
+    float: left;
+    width: 395px;
+  }
+
+  div.Usopp img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+
+  div.Usopp:hover {
+    border: 1px solid #777;
+  }
+
+  div.Sanji{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Sanji img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Sanji:hover {
+    border: 1px solid #777;
+  }
+
+  div.Chopper{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Chopper img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Chopper:hover {
+    border: 1px solid #777;
+  }
+
+  div.Robin{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Robin img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Robin:hover {
+    border: 1px solid #777;
+  }
+
+  div.Franky {
+    margin-bottom: 5px;
+    margin: 0%;
+    border: 1px solid #ccc;
+    float: left;
+    width: 395px;
+  }
+
+  div.Franky img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+
+  div.Franky:hover {
+    border: 1px solid #777;
+  }
+  
+  div.Brooke{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Brooke img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Brooke:hover {
+    border: 1px solid #777;
+  }
+  div.Jinbei{
+    margin: 0px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+  }
+  div.Jinbei img{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-bottom: 0%;
+  }
+  div.Jinbei:hover {
+    border: 1px solid #777;
+  }
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+
+
+
+
+
+
+
+
+
+
+  p{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    -webkit-text-fill-color: blue;
+    text-align:left;
+  }
